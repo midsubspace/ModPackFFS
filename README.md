@@ -6,6 +6,10 @@ How To Use:
 3.) Run Fast Food Simulator once, and exit.
 
  4.) Download the Mod Pack zip
+ Make sure there is only ony EasyModeModPack Folder. Some programs used to extract it may put the Mod Pack folder inside another folder
+ ![image](https://github.com/user-attachments/assets/5eab4d6a-6d02-41c6-a78a-a42dd4207b57) this is all that should be inside the EasyModeModPack
+
+ The Full Path should look like this: C:\Program Files (x86)\Steam\steamapps\common\Fast Food Simulator_clean\ProjectBakery\Binaries\Win64\Mods\EasyModeModPack if on Windows
  
 5.) Extract it into the (Steam Directory)\steamapps\common\Fast Food Simulator Prologue\ProjectBakery\Binaries\Win64\Mods\ folder.
 
