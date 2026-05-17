@@ -1,0 +1,4 @@
+Change Log Version:
+
+Fixed Possible Crash in Easy Game Difficulty when having CustomerPatience and/or DriveTHruPatience Enabled
+Alpha 0.2.7
